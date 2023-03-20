@@ -45,7 +45,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ### 成果影片
-<iframe width="1239" height="697" src="https://www.youtube.com/embed/zwWg6hkj6mU" title="【釣魚日記】居然一個人包池的雲海溫泉….還有竿竿咬的點...新手也不會喊累..真是完美的一趟旅程........fishing｜采蓁 Patti ＠雲海溫泉" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=OYuz1lVU7ZQ
 
 <br>
 <br>
