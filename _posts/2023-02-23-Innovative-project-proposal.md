@@ -45,8 +45,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ### 成果影片
-[https://www.youtube.com/watch?v=OYuz1lVU7ZQ](https://www.youtube.com/watch?v=OYuz1lVU7ZQ)
-
+<iframe width="878" height="494" src="https://www.youtube.com/embed/GyEHRXA_aA4" title="&#39;Kitchen robot&#39; that will cook meals from scratch unveiled" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <br>
 
