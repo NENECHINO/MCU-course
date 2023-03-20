@@ -49,6 +49,6 @@ This homework is to propose an innovative project and describe the key features,
 <br>
 <br>
 
-*This site was last updated {{ site.time | date: "%B %d, %Y" }}!*
+*This site was last updated {{ site.time | date: "%B %d, %Y" }}!:)*
 
 
