@@ -20,7 +20,7 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## Kitchen robot
+## KICHEN ROBOT!
 
 ![](https://github.com/NENECHINO/MCU-course/blob/main/images/ef08d660-4efe.jpg?raw=true)
 
@@ -49,6 +49,6 @@ This homework is to propose an innovative project and describe the key features,
 <br>
 <br>
 
-*This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
+*This site was last updated {{ site.time | date: "%B %d, %Y" }}!*
 
 
