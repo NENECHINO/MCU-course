@@ -11,40 +11,40 @@ This homework is to propose an innovative project and describe the key features,
 ---
 ## Homework Report Format
 **Contents:**<br>
-* **應用與功能說明**
+* **Application function description**
   - Specify the future home application, and Describe the key features
   - Describe the key features which may be applied to the home space (kitchen, living room, play room, study room, bed room)
-* **設計考量與所需相關技術**
+* **Design Considerations and Related Technologies Required**
   - List all design considerations and the required technologies
-* **系統方塊圖**
+* **System Block Diagram**
   - Draw a System Block Diagram
 
 ---
-## 家用料理機器人
+## Kitchen robot
 
 ![](https://github.com/NENECHINO/MCU-course/blob/main/images/ef08d660-4efe.jpg?raw=true)
 
-### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+### Application function description
+1. Operating kitchen utensils：Coffee machine + juice machine + toaster + microwave oven + oven + air fryer
+2. Access refrigerator：Identify food》Store ingredients or take out ingredients》Send to kitchen utensils
 
-### 設計考量與相關技術
-**系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
-3. 供電方式:鋰電池
-4. 聯網方式:WiFi或BT to 手機
+### Design Considerations and Related Technologies Required
+**System Design Considerations：**<br>
+1. Operation method:Vertical lift arm/suspension arm
+2. Way of moving:Two-wheel/rail suspension
+3. Power supply:lithium battery
+4. Networking method:WiFi/BT》phone!
 
-**所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+**Required technology：**
+1. Slide rail robot arm and soft fixture
+2. Food Identification Classification：Jetson-Nano + IMX219
+3. Electronic Nose: Odor Sensing and Recognition MQ2
 
-### 系統方塊圖
+### System Block Diagram
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
 ---
-### 成果影片
+### Outcome video
 <iframe width="878" height="494" src="https://www.youtube.com/embed/GyEHRXA_aA4" title="&#39;Kitchen robot&#39; that will cook meals from scratch unveiled" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <br>
