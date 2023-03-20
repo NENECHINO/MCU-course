@@ -44,7 +44,7 @@ This homework is to propose an innovative project and describe the key features,
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
 
-![](https://github.com/NENECHINO/MCU-course/blob/main/images/The-Assistive-Kitchen-containing-a-robot-and-a-variety-of-sensors.png)
+![](https://github.com/NENECHINO/MCU-course/blob/main/images/The-Assistive-Kitchen-containing-a-robot-and-a-variety-of-sensors.jpg?raw=true)
 
 
 ---
