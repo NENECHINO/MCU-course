@@ -47,9 +47,6 @@ This homework is to propose an innovative project and describe the key features,
 ![](https://github.com/NENECHINO/MCU-course/blob/main/images/The-Assistive-Kitchen-containing-a-robot-and-a-variety-of-sensors.png)
 
 
-
-
-
 ---
 ### Outcome video
 <iframe width="878" height="494" src="https://www.youtube.com/embed/GyEHRXA_aA4" title="&#39;Kitchen robot&#39; that will cook meals from scratch unveiled" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
