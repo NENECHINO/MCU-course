@@ -45,7 +45,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ### 成果影片
-https://www.youtube.com/watch?v=OYuz1lVU7ZQ
+[https://www.youtube.com/watch?v=OYuz1lVU7ZQ](https://www.youtube.com/watch?v=OYuz1lVU7ZQ)
 
 <br>
 <br>
