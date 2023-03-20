@@ -22,7 +22,7 @@ This homework is to propose an innovative project and describe the key features,
 ---
 ## KICHEN ROBOT!
 
-![](https://github.com/NENECHINO/MCU-course/blob/main/images/ef08d660-4efe.jpg?raw=true)
+![](https://github.com/NENECHINO/MCU-course/blob/main/images/ef08d660-4efe.jpg?raw=true](https://github.com/NENECHINO/MCU-course/blob/main/images/The-Assistive-Kitchen-containing-a-robot-and-a-variety-of-sensors.png)
 
 ### Application function description
 1. Operating kitchen utensils：Coffee machine + juice machine + toaster + microwave oven + oven + air fryer
