@@ -10,7 +10,7 @@ This project is to implement a bluetooth remote controlled robotcar.
 
 ---
 ## 藍牙遙控機器人
-![](https://github.com/rkuo2023/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
+![](https://github.com/NENECHINO/MCU-course/blob/main/images/19B686FB-0466-42B8-BDE5-6EE185342811.jpg)
 
 
 ### 應用功能說明
