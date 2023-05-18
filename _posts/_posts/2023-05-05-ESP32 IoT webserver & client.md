@@ -1,6 +1,6 @@
 layout: post
 title: ESP32 IoT webserver & client作業
-author: [Yian Chang]
+author: [Tony]
 category: [Lecture]
 tags: [IoT webserver & client]
 ---
@@ -17,8 +17,8 @@ tags: [IoT webserver & client]
 #include <WiFi.h> 
 #include <WebServer.h>
 
-const char* ssid     = "Test";
-const char* password = "tonyikci";
+const char* ssid     = "BrokenJade";
+const char* password = "aaaaaaaa";
 
 WebServer server(80);
 
@@ -151,8 +151,8 @@ void loop() {
 
 Adafruit_HTU21DF htu = Adafruit_HTU21DF();
 
-const char* ssid     = "Test";
-const char* password = "tonyikci";
+const char* ssid     = "BrokenJade";
+const char* password = "aaaaaaaa";
 String      webserverIP = "http://192.168.109.244"; // Your Webserver IP address
 
 void setup() {
@@ -228,23 +228,23 @@ void loop() {
 }
 ```
 ### 將發射器連接HTU21D
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/HTU21D-with-ESP32-connection-diagram.jpg?raw=true)<br>
+![](X)<br>
 
 ### 成果展示
 **網頁:**<br>
 
 **初始狀態**
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/ESP32_Webclint_loT_begin.jpg?raw=true)<br>
+![](X)<br>
 **訊息輸入後狀態**
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/ESP32_Webclint_loT_result_1.jpg?raw=true)<br>
+![](X)<br>
 **序列埠狀態對比**
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/ESP32_Webclint_loT_result_2.jpg?raw=true)<br>
+![](X)<br>
 
 **實作:**<br>
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/webclint.jpg?raw=true)<br>
+![](X)<br>
 
 **流程gif:**<br>
-![](https://github.com/Ian1121023/MCU-project/blob/main/images/webclint2.gif?raw=true)<br>
+![](X)<br>
 
 <br>
 <br>
