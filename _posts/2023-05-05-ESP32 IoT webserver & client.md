@@ -9,7 +9,7 @@ tags: [IoT webserver & client]
 
 將作為接受器的esp32寫入以下程式
 
-### esp32接受程式
+### 32接受程式
 ```
 //
 // ESP32 Webserver to receive data from Webclients
