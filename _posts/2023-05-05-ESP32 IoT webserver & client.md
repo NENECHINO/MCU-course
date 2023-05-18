@@ -228,24 +228,13 @@ void loop() {
   delay(1*60*100);
 }
 ```
-### 將發射器連接HTU21D
-![](X)<br>
-
 ### 成果展示
 **網頁:**<br>
 
 **初始狀態**
-![](X)<br>
+![](https://github.com/NENECHINO/MCU-course/blob/main/images/2_%E8%BC%B8%E5%85%A5%E5%80%BC.jpg?raw=true)<br>
 **訊息輸入後狀態**
-![](X)<br>
-**序列埠狀態對比**
-![](X)<br>
-
-**實作:**<br>
-![](X)<br>
-
-**流程gif:**<br>
-![](X)<br>
+![](https://github.com/NENECHINO/MCU-course/blob/main/images/2_%E8%BC%B8%E5%85%A5%E5%80%BC.jpg?raw=true)<br>
 
 <br>
 <br>
