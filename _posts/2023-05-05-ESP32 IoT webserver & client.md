@@ -232,7 +232,7 @@ void loop() {
 **網頁:**<br>
 
 **初始狀態**
-![](https://github.com/NENECHINO/MCU-course/blob/main/images/2_%E8%BC%B8%E5%85%A5%E5%80%BC.jpg?raw=true)<br>
+![](https://github.com/NENECHINO/MCU-course/blob/main/images/2_%E5%88%9D%E5%A7%8B%E5%80%BC.jpg?raw=true)<br>
 **訊息輸入後狀態**
 ![](https://github.com/NENECHINO/MCU-course/blob/main/images/2_%E8%BC%B8%E5%85%A5%E5%80%BC.jpg?raw=true)<br>
 
