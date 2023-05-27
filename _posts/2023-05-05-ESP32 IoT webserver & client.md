@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ESP32 IoT webserver & client作業
+title: ESP32 IoT webserver & client
 author: [Tony]
 category: [Lecture]
 tags: [IoT webserver & client]
