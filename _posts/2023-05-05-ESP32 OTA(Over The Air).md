@@ -9,6 +9,9 @@ tags: [jekyll, ai]
 This project is to implement a bluetooth remote controlled robotcar.
 
 ---
+### 系統方塊圖
+![](https://github.com/NENECHINO/MCU-course/blob/main/1_otap.jpg?raw=true)<br>
+
 ## OTA初始操作
 
 將網站搭建好
@@ -73,8 +76,7 @@ void loop(void) {
 ### 製造bin檔與上傳
 ![](https://github.com/NENECHINO/MCU-course/blob/main/images/1_bin.png?raw=true)<br>
 將製作好的bin檔利用網頁上傳
-### 系統方塊圖
-![](https://github.com/NENECHINO/MCU-course/blob/main/1_otap.jpg?raw=true)<br>
+
 ### 成果展示
 ![](https://github.com/NENECHINO/MCU-course/blob/main/1_OTA%20%20off.png?raw=true)<br>
 ![](https://github.com/NENECHINO/MCU-course/blob/main/1_red.jpg?raw=true)<br>
