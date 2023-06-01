@@ -10,7 +10,7 @@ This project is to implement a bluetooth remote controlled robotcar.
 
 ---
 ### 系統方塊圖
-![](https://github.com/NENECHINO/MCU-course/blob/main/1_otap.jpg?raw=true)<br>
+![](https://github.com/NENECHINO/MCU-course/blob/main/1_otapp.jpg?raw=true)<br>
 
 ## OTA初始操作
 
