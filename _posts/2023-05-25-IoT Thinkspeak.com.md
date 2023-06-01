@@ -9,6 +9,8 @@ tags: [jekyll, ai]
 This project is to implement a bluetooth remote controlled robotcar.
 
 ---
+### 系統方塊圖
+![](https://github.com/NENECHINO/MCU-course/blob/main/1_thingP.png?raw=true)<br>
 
 ### 程式
 ```
@@ -112,8 +114,8 @@ void loop() {
 ### 網頁展示
 ![](https://github.com/NENECHINO/MCU-course/blob/main/1_com4%E9%80%A3%E6%8E%A5.png?raw=true)<br>
 
-### 系統方塊圖
-![](https://github.com/NENECHINO/MCU-course/blob/main/1_thingP.png?raw=true)<br>
+### 電路接法
+![](https://github.com/NENECHINO/MCU-course/blob/main/1_thingthing.jpg?raw=true)<
 
 ### 成果展示
 ![](https://github.com/NENECHINO/MCU-course/blob/main/1_iot%E7%89%A9%E9%80%A3.png?raw=true)<br>
