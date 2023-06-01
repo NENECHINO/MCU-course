@@ -74,7 +74,7 @@ void loop(void) {
 ![](https://github.com/NENECHINO/MCU-course/blob/main/images/1_bin.png?raw=true)<br>
 將製作好的bin檔利用網頁上傳
 ### 系統方塊圖
-![](https://github.com/NENECHINO/MCU-course/blob/main/1_IOTp.png?raw=true)<
+![](https://github.com/NENECHINO/MCU-course/blob/main/1_IOTp.png?raw=true)<br>
 ### 成果展示
 ![](https://github.com/NENECHINO/MCU-course/blob/main/1_OTA%20%20off.png?raw=true)<br>
 ![](https://github.com/NENECHINO/MCU-course/blob/main/1_red.jpg?raw=true)<br>
