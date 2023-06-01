@@ -228,6 +228,8 @@ void loop() {
   delay(1*60*100);
 }
 ```
+### 系統方塊圖
+![](https://github.com/NENECHINO/MCU-course/blob/main/1_IOTp.png?raw=true)<
 ### 成果展示 
 **網頁:**<br>
 
