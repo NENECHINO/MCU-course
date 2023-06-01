@@ -115,7 +115,7 @@ void loop() {
 ![](https://github.com/NENECHINO/MCU-course/blob/main/1_com4%E9%80%A3%E6%8E%A5.png?raw=true)<br>
 
 ### 電路接法
-![](https://github.com/NENECHINO/MCU-course/blob/main/1_thingthing.jpg?raw=true)<
+![](https://github.com/NENECHINO/MCU-course/blob/main/1_thingthing.jpg?raw=true)<br>
 
 ### 成果展示
 ![](https://github.com/NENECHINO/MCU-course/blob/main/1_iot%E7%89%A9%E9%80%A3.png?raw=true)<br>
